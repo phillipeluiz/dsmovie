@@ -13,10 +13,18 @@ header {
     color:#ffff
 }
 
-dsmovie-contact-container {
-    display: flex;
+.dsmovie-nav-content h1 {
+    margin: 0;
+    font-weight: 700;
+    font-size: 24px;
 }
 
-dsmovie-contact-link {
-    margin: 0;
+.dsmovie-contact-container {
+    display: flex;
+    align-items: center;
+}
+
+.dsmovie-contact-link {
+    margin: 0 0 0 10px;
+    font-size: 12px;
 }
